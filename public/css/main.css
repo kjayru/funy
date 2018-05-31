@@ -1,0 +1,44 @@
+.bgback{
+	background:url(../img/backfuny.jpg) no-repeat center center;
+	background-size:cover;
+}
+#app{
+	background: rgba(250,250,250,0.7);
+	height: 100vh;
+}
+.panel {
+    margin-bottom: 22px;
+    background: rgba(250,250,250,0.3);
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+.oculto{
+    display: none !important;
+    opacity: 0;
+}
+div#getdot {
+    height: 400px;
+}
+#photos ul {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: block;
+    list-style: none;
+    padding: 0;
+}
+#photos ul li {
+    padding: 10px;
+    display: inline-block;
+}
+.fondobg{
+    background: url('/img/bgback.jpg') no-repeat 0px 0px;
+    background-size:cover;
+}
+.clsoff{
+	color: #A3A1A1 !important;
+}
+.clsoff .subpage td{
+	color: #A3A1A1 !important;
+
+}
